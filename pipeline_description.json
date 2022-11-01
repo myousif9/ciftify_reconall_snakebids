@@ -1,0 +1,23 @@
+{
+    "Name": "ciftify_reconall_snakebids - Snakebids wrapper for running ciftify recon-all",
+    "BIDSVersion": "1.4.0",
+    "DatasetType": "derivative",
+    "PipelineDescription":
+        {
+            "Name": "ciftify_reconall_snakebids",
+            "Version": "0.1.0",
+            "CodeURL": "http://github.com/myousif9/ciftify_reconall_snakebids",
+            "Author": "Mohamed Yousif",
+            "AuthorEmail": "myousif9@uwo.ca"
+        },
+    "GeneratedBy": [
+        {
+            "Name": "ciftify_reconall_snakebids",
+            "Version": "0.1.0",
+            "CodeURL": "http://github.com/myousif9/ciftify_reconall_snakebids",
+            "Author": "Mohamed Yousif",
+            "AuthorEmail": "myousif9@uwo.ca"
+ 
+        }
+    ]
+}

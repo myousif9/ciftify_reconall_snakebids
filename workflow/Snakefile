@@ -26,7 +26,7 @@ wildcard_constraints:  **snakebids.get_wildcard_constraints(config['pybids_input
 
 rule ciftify_recon_all:
     input:
-        sub_dir = inputs.path['t1'],
+        sub_dir = inputs.input_path['t1'],
         fs_license=os.environ["FS_LICENSE"]
         if config["fs_license"] == False
         else config["fs_license"],
